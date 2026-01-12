@@ -1,6 +1,5 @@
 # 📊 Superstore Sales Analysis Dashboard
-![Dashboard Preview](dashboard_screenshot.png)
-*(Note: Upload a screenshot of your dashboard and name it `dashboard_screenshot.png`)*
+
 ## 📝 Project Overview
 This project leverages **Power BI** to analyze sales data from a global superstore chain. The goal was to identify profit leaks, optimize discounting strategies, and visualize regional performance trends to support data-driven decision-making.
 ## 🚀 Key Features
